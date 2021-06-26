@@ -1,0 +1,8 @@
+{
+    "name": "Letmeask" , 
+    "background_color": "#835afd",
+    "display": "standalone",
+    "orientation": "portrait",
+    "Scope": "",
+    "start_url": "Endereço de início da sua aplicação"
+}
